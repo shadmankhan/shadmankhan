@@ -1,14 +1,16 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shadman Khan!
 
-
 I am a final year engineering student with major in computer science.
 Work with `JavaScript`, `ReactJS` and `CSS3`.
 
+- 🔭 I’m currently working on my Group Video Call Meeting web app!
+- 🌱 I’m currently learning Redux & React
+- 💬 Ask me about anything [here](https://github.com/shadmankhan/shadmankhan/issues)
 
 ## You can reach me  ⚡
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/shadmanakhan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/shadman_akhan/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/ShadmanAKhan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://shadman.netlify.app/)
 
-## [Resume](https://drive.google.com/file/d/1TF4O-c0NEIL5xo6TY0Y5AB_7Ey1aYz3c/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1TF4O-c0NEIL5xo6TY0Y5AB_7Ey1aYz3c/view?usp=sharing)
 
 
 ## My GitHub Stats &#x1f4c8;
