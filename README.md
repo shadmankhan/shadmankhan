@@ -15,7 +15,6 @@ Work with `JavaScript`, `ReactJS` and `CSS3`.
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shadmankhan's DEV Profile" height="20">](https://dev.to/shadmankhan)
 
 
-[Resume](https://drive.google.com/file/d/1TF4O-c0NEIL5xo6TY0Y5AB_7Ey1aYz3c/view?usp=sharing)
 
 
 ## My GitHub Stats &#x1f4c8;
