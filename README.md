@@ -3,8 +3,8 @@
 I am a final year engineering student with major in computer science.
 Work with `JavaScript`, `ReactJS` and `CSS3`.
 
-- 🔭 I’m currently working on my Group Video Call Meeting web app!
-- 🌱 I’m currently learning Redux & React
+- 🔭 I’m currently working as a frontend developer in a start-up!
+- 🌱 Growing towards Fullstack developer!
 - 💬 Ask me about anything [here](https://github.com/shadmankhan/shadmankhan/issues)
 
 ## You can reach me  ⚡
