@@ -1,10 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shadman Khan!
 
-I am a final year engineering student with major in computer science.
-Work with `JavaScript`, `ReactJS` and `CSS3`.
+Final year engineering student with major in computer science.
 
-- 🔭 I’m currently working as a frontend developer in a start-up!
-- 🌱 Growing towards Fullstack developer!
+- 🔭 Hey, I'm Shadman. I'm a Front End / UI Developer.
+- 🌱 Growing towards Fullstack development!
 - 💬 Ask me about anything [here](https://github.com/shadmankhan/shadmankhan/issues)
 
 ## You can reach me  ⚡
