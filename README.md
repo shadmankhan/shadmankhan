@@ -1,4 +1,5 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shadman Khan!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shadman Khan! ![](https://komarev.com/ghpvc/?username=shadmankhan&color=blue)
+
 
 - 🔭 Hey, I'm Shadman. I'm a Front End / UI Engineer.
 - 🌱 Growing towards Fullstack development!
